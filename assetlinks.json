@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.noahwm.android",
+      "sha256_cert_fingerprints": ["D5:44:D9:3D:B7:E5:61:69:A8:F8:C3:80:E9:FE:B1:5C:B2:DD:9A:21:08:02:94:57:24:99:8C:F3:DD:21:99:27"]
+    }
+  }
+]
